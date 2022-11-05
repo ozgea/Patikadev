@@ -47,5 +47,5 @@ Average Case'e girer.
 
 ```
 
-(Patikadev)[https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje]
+[Patikadev](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
 
