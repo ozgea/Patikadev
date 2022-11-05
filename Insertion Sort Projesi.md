@@ -46,7 +46,7 @@ Average Case'e girer.
 [2,3,4,5,7,9,8,15,6] n-4
 
 ```
-
+```
 (Patikadev)[https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje]
 
 ```
