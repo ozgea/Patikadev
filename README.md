@@ -1,1 +1,1 @@
-# Patika.dev Insertion Sort projesi ödevim.
+# Patika.dev Insertion, Merge ve Binary Search Tree Sort projesi ödevim.
