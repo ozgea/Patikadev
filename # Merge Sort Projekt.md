@@ -14,7 +14,7 @@
 ```
 
 ## Big-O gösterimini yazınız
-
+```
 Worst case: O(n log(n))
 Best case: O(n log(n))
 Average case: O(n log(n))
