@@ -5,8 +5,8 @@
 ## Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 ```
-
-      7
+  
+        7
     /       \
    5         8
  /  \        \
